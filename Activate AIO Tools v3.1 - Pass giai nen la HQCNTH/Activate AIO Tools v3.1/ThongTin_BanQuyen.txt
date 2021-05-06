@@ -1,0 +1,28 @@
+Software licensing service version: 10.0.18362.418
+
+Name: Windows(R), Enterprise edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+Activation ID: 73111121-5638-40f6-bc11-f1d7b0d64300
+Application ID: 55c92734-d682-4d71-983e-d6ec3f16059f
+Extended PID: 03612-03290-000-000003-03-1033-18362.0000-2492019
+Product Key Channel: Volume:GVLK
+Installation ID: 279632274940741762596143605663207941800280768507266682361370486
+Partial Product Key: 2YT43
+License Status: Licensed
+Volume activation expiration: 123312 minute(s) (86 day(s))
+Remaining Windows rearm count: 1001
+Remaining SKU rearm count: 1001
+Trusted time: 12/10/2019 4:33:21 AM
+Configured Activation Type: All
+
+Most recent activation information:
+Key Management Service client information
+    Client Machine ID (CMID): 6a4240b3-c04a-408f-a362-681d073ffe2a
+    Registered KMS machine name: 10.3.0.1:1688
+    KMS machine IP address: 193.29.63.133
+    KMS machine extended PID: 05426-00206-567-687191-03-4155-9200.0000-2162019
+    Activation interval: 120 minutes
+    Renewal interval: 10080 minutes
+    KMS host caching is enabled
+
+
